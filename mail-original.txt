@@ -1,0 +1,1574 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="initial-scale=1.0"> 
+<meta name="format-detection" content="telephone=no">
+<title>KMS : Responsive Email Templates</title>
+
+
+<style type="text/css">
+		.ReadMsgBody{
+			width:100%;
+			background-color:#ffffff;
+		}
+		.ExternalClass{
+			width:100%;
+			background-color:#ffffff;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+			line-height:100%;
+		}
+		html{
+			width:100%;
+		}
+		body{
+			-webkit-text-size-adjust:none;
+			-ms-text-size-adjust:none;
+		}
+		body{
+			margin:0;
+			padding:0;
+		}
+		table{
+			border-spacing:0;
+		}
+		img{
+			display:block !important;
+		}
+		table td{
+			border-collapse:collapse;
+		}
+		.yshortcuts a{
+			border-bottom:none !important;
+		}
+		img{
+			height:auto !important;
+		}
+	@media only screen and (max-width: 640px){
+		body{
+			width:auto!important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=container]{
+			width:100%!important;
+			padding-left:20px!important;
+			padding-right:20px!important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=container-padding-left]{
+			width:100%!important;
+			padding-left:20px!important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		img[class=image-100-percent]{
+			width:100% !important;
+			height:auto !important;
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		img[class=small-image-100-percent]{
+			width:100% !important;
+			height:auto !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=full-width]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=full-width-text]{
+			width:100% !important;
+			background-color:#136590;
+			padding-left:20px !important;
+			padding-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=full-width-text2]{
+			width:100% !important;
+			background-color:#f3f3f3;
+			padding-left:20px !important;
+			padding-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=col-2-3img]{
+			width:50% !important;
+			margin-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=col-2-3img-last]{
+			width:50% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=col-2]{
+			width:47% !important;
+			margin-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=col-2-last]{
+			width:47% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=col-3]{
+			width:29% !important;
+			margin-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=col-3-last]{
+			width:29% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		td[class=col-hotjobs-1]{
+			width:60% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		td[class=col-hotjobs-2]{
+			width:40% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=col-events-1]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=col-events-2]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=row-2]{
+			width:50% !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		td[class=text-center]{
+			text-align:center !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=remove]{
+			display:none !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		td[class=remove]{
+			display:none !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		table[class=fix-box]{
+			padding-left:20px !important;
+			padding-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		td[class=fix-box]{
+			padding-left:20px !important;
+			padding-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 640px){
+		td[class=font-resize]{
+			font-size:18px !important;
+			line-height:22px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		body{
+			font-size:10px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=container2]{
+			width:100%!important;
+			float:none !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		img[class=image-100-percent]{
+			width:100% !important;
+			height:auto !important;
+			max-width:100% !important;
+			min-width:124px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		img[class=small-image-100-percent]{
+			width:100% !important;
+			height:auto !important;
+			max-width:100% !important;
+			min-width:124px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=full-width]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=full-width-text]{
+			width:100% !important;
+			background-color:#136590;
+			padding-left:20px !important;
+			padding-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=full-width-text2]{
+			width:100% !important;
+			background-color:#f3f3f3;
+			padding-left:20px !important;
+			padding-right:20px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=col-2]{
+			width:100% !important;
+			margin-right:0px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=col-2-last]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=col-3]{
+			width:100% !important;
+			margin-right:0px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=col-3-last]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[class=col-hotjobs-1]{
+			width:90% !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[class=col-hotjobs-2]{
+			display:none !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=col-events-1]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=col-events-2]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=row-2]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[id=col-underline]{
+			float:none !important;
+			width:100% !important;
+			border-bottom:1px solid #eee;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[id=col-underline]{
+			float:none !important;
+			width:100% !important;
+			border-bottom:1px solid #eee;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[class=col-underline]{
+			float:none !important;
+			width:100% !important;
+			border-bottom:1px solid #eee;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[class=text-center]{
+			text-align:center !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		div[class=text-center]{
+			text-align:center !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[id=clear-padding]{
+			padding:0 !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[id=clear-padding]{
+			padding:0 !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[class=clear-padding]{
+			padding:0 !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=remove-479]{
+			display:none !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[class=remove-479]{
+			display:none !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=clear-align]{
+			float:none !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=width-small]{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		table[class=fix-box]{
+			padding-left:0px !important;
+			padding-right:0px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[class=fix-box]{
+			padding-left:0px !important;
+			padding-right:0px !important;
+		}
+
+}	@media only screen and (max-width: 479px){
+		td[class=font-resize]{
+			font-size:14px !important;
+		}
+
+}	@media only screen and (max-width: 320px){
+		table[class=width-small]{
+			width:125px !important;
+		}
+
+}	@media only screen and (max-width: 320px){
+		img[class=image-100-percent]{
+			width:100% !important;
+			height:auto !important;
+			max-width:100% !important;
+			min-width:124px !important;
+		}
+
+}</style></head>
+
+<body style="font-size:12px; background-color:#e1e1e1;">
+
+<!--start 100% wrapper (white background) -->
+<table width="100%" id="mainStructure" border="0" cellspacing="0" cellpadding="0" style="background-color:#e1e1e1;">
+
+  <!-- START TAB TOP -->
+    <tr>
+      <td valign="top">
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0"> 
+          <tr>
+            <td valign="top" height="6">
+              <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+                <!-- start space height -->
+                 <tr>
+                    <td height="5" valign="top"></td>
+                 </tr>
+                 <!-- end space height -->
+                 <tr><td height="5" class="remove"></td></tr>
+                <tr>
+                   <td>
+                      <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container">
+                        <tr>
+                          <td style="font-size: 11px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#a3a2a2; font-weight:normal; text-align:right;">
+                            <span style="color: #a3a2a2; font-weight: normal;">                       
+                               If you cannot read this email, please <span title="click here" style="color: #00a0e0; font-weight: normal;"><a href="*|ARCHIVE|*" target="_blank" title="click here" style="text-decoration: none; color: #46a8e2; font-weight: normal;">click here</a></span>                       
+                            </span>
+                          </td>
+                        </tr>
+                      </table>                      
+                    </td>
+                </tr>
+                 <!-- start space height -->
+                 <tr>
+                    <td height="5" valign="top"></td>
+                 </tr>
+                 <tr><td height="5" class="remove"></td></tr> 
+                 <!-- end space height -->
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  <!-- END TAB TOP -->
+
+  <!--START TOP NAVIGATION ?LAYOUT-->
+  <tr>
+    <td valign="top">
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+
+      <!-- START CONTAINER NAVIGATION -->
+      <tr>
+        <td align="center" valign="top" class="fix-box">
+          
+          <!-- start top navigation container -->
+          <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+          
+            <tr>
+              <td valign="top" bgcolor="00a0e0">
+
+                <!-- start top navigaton -->
+                <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+             
+                  <tr>
+                    <td valign="top">
+                    
+                    <table align="left" border="0" cellspacing="0" cellpadding="0" class="container2">
+                      <tr><td height="10"></td></tr>
+                      <tr>
+                        <td class="remove-479" height="12"></td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top">
+                        	<table align="center" border="0" cellspacing="0" cellpadding="0">
+                            	<tr>
+                                	<!--start  space width -->
+                                     <td valign="top" align="center" class="remove-479">
+                                      <table width="20" align="right" border="0" cellpadding="0" cellspacing="0" style="height:5px;">
+                                        <tr>
+                                          <td valign="top">
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                    <!--start  space width -->
+                                    <td align="center" valign="top">
+                                    	<a href="http://www.kms-technology.com/" target="_blank"><img title="Logo" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/f91b98b8-64ba-4d42-8bbf-b9983c371876.jpg" width="107" style="max-width:107px;" alt="Logo" border="0" hspace="0" vspace="0"></a>
+                                    </td>
+                                </tr>
+                            </table>                           
+                        </td>                  
+                      </tr>
+					  <tr><td height="10" valign="top"></td></tr>
+					  <tr><td class="remove-479" height="12" valign="top"></td></tr>
+                    </table>
+
+                    <!--start content nav -->
+                    <table border="0" align="right" cellpadding="0" cellspacing="0" class="container2">
+                      
+                      <tr>
+                        <td class="remove-479" height="30"></td>
+                      </tr>
+
+                       <!--start event date -->
+                      <tr>
+                         <td valign="mindle" align="center">                        
+                            <table align="right" border="0" cellpadding="0" cellspacing="0" class="clear-align">
+                              <tr>
+                                <td>
+                                  <img width="20" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/c4919c7b-7222-4916-bdb0-1f0760c2b9b6.jpg" alt="icon date">
+                                </td>
+                                <td>&nbsp;&nbsp;</td>
+                                <td style="font-size: 13px;  line-height: 22px; color: #FFF;  font-weight:normal; text-align: center; font-family:Arail,Tahoma, Helvetica, Arial, sans-serif;">
+    
+                                  MONDAY 16 JULY
+    
+                                </td>
+                                
+                                <!--start  space width -->
+                                 <td valign="top" align="center" class="remove-479">
+                                  <table width="20" align="right" border="0" cellpadding="0" cellspacing="0" style="height:5px;">
+                                    <tr>
+                                      <td valign="top">
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <!--start  space width -->
+                        
+                              </tr>
+                            </table>
+                        </td>
+                      </tr>
+                      <!--end event date -->
+					   <tr>
+                        <td height="10"></td>
+                       </tr>	
+                       <tr>
+                        <td class="remove-479" height="20"></td>
+                      </tr>                      
+                    </table>
+                    <!--end content nav -->
+
+                   </td>
+                 </tr>
+               </table>
+               <!-- end top navigaton -->
+              </td>
+            </tr>
+          </table>
+          <!-- end top navigation container -->
+
+        </td>
+      </tr>
+      
+       <!-- END CONTAINER NAVIGATION -->
+  
+      </table>
+    </td>
+  </tr>
+  <!--END TOP NAVIGATION LAYOUT-->
+  
+  <!-- START LAYOUT 1 Job List --> 
+  <tr>
+   <td align="center" valign="top" class="fix-box">
+     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+      
+       <tr>
+         <td align="center" valign="top">
+
+           <!-- start layout-2 container width 600px --> 
+           <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container-padding-left" bgcolor="#ffffff" style="background-color: #ffffff; ">
+             <tr>
+               <td valign="top">
+
+                 <!-- start layout-2 container width 560px --> 
+                 <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+
+                   <!-- start image and content --> 
+                   <tr>
+                     <td valign="top" width="100%">
+						                       
+                       <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                       	<tr>
+                       		<!--start space height --> 
+                       		<td align="left">
+                       			<table class="remove" width="1" border="0" cellpadding="0" cellspacing="0" align="left" style="font-size: 0;line-height: 0;border-collapse: collapse;">
+		                          <tr>
+		                            <td width="0" height="3" style="font-size: 0;line-height: 0;border-collapse: collapse;">
+		                              <p style="padding-left: 58px;">&nbsp;</p>
+		                            </td>
+		                          </tr>
+		                        </table> 	
+                       		</td>
+                       		<!--end space height --> 
+                       		<!-- start content left --> 
+                       		<td align="left" width="270" class="col-hotjobs-1">                       			
+		                       <table width="95%" border="0" cellspacing="0" cellpadding="0" align="left">
+		                        <!--start space height --> 
+		                         <tr>
+		                           <td height="25"></td>
+		                         </tr>
+		                         <tr><td class="remove-479" height="20" valign="top"></td></tr>
+		                         <!--end space height --> 
+		
+		                         <!-- start text content --> 
+		                         <tr>
+		                           <td valign="top">
+		                             <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+		                               <tr>
+		                                 <td>                                    
+		                                    <img class="image-100-percent" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/8bd9d6a9-920d-4e8f-9131-29d19c94a6e7.png" width="242" alt="Hot Jobs" style="display:block; max-width:242px; " border="0" hspace="0" vspace="0">
+		                                  </td> 
+		                               </tr>
+		
+		                               <!--start space height --> 
+		                               <tr>
+		                                 <td height="20"></td>
+		                               </tr>
+		                               <tr>
+		                                 <td height="20" style="font-size: 13px; line-height: 22px; font-family:Arial,Tahoma, Helvetica, sans-serif; color:#737373; font-weight:normal; text-align:left; ">Introduce your friend and enjoy the referral bonus with  <a href="http://www.kms-technology.com/current-openings.html#referral-program" "="" target="_blank" style="text-decoration: none; color: #21ace3;"> KMS Refferal Program</a></td>
+		                               </tr>
+		                                <tr>
+		                                 <td height="20"></td>
+		                               </tr>
+		                               <tr>
+		                                 <td height="10" class="remove"></td>
+		                               </tr>
+		                               <!--end space height --> 
+		
+		                               <tr>
+		                                 <td>
+		                                    <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left" class="list-hot-jobs">
+		                                                  <tr>
+		                                                      <td style="font-size:0px; line-height:0px; padding-top:0px; padding-bottom:0px">
+		                                                          <img align="top" width="12" height="11" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/bfda2e6b-5b45-4caf-813a-738dcdf0d155.png" alt="Job">
+		                                                      </td> 
+		                                                      <td style="padding-left:10px; padding-top:2px">
+		                                                          
+		                                                          <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+		                                                            <a href="http://www.kms-technology.com/senior-oracle-developer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">Senior Oracle Developer</a>
+		                                                          </span>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr>  
+		                                      <tr><td height="12"></td></tr>
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left" class="list-hot-jobs">
+		                                                  <tr>
+		                                                      <td style="font-size:0px; line-height:0px; padding-top:0px; padding-bottom:0px">
+		                                                          <img width="12" height="11" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/bfda2e6b-5b45-4caf-813a-738dcdf0d155.png" alt="Job">
+		                                                      </td> 
+		                                                      <td style="padding-left:10px; padding-top:2px">
+		                                                          
+		                                                          <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+		                                                            <a href="http://www.kms-technology.com/senior-php-developer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">Senior PHP Developer</a>
+		                                                          </span>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr> 
+		                                      <tr><td height="12"></td></tr>                                      
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left" class="list-hot-jobs">
+		                                                  <tr>
+		                                                      <td style="font-size:0px; line-height:0px; padding-top:0px; padding-bottom:0px">
+		                                                          <img width="12" height="11" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/bfda2e6b-5b45-4caf-813a-738dcdf0d155.png" alt="Job">
+		                                                      </td> 
+		                                                      <td style="padding-left:10px; padding-top:2px">
+		                                                          
+		                                                          <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+		                                                            <a href="http://www.kms-technology.com/senior-analytics-engineer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">Senior Analytics Engineer</a>
+		                                                          </span>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr>
+		                                      <tr><td height="12"></td></tr>
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left" class="list-hot-jobs">
+		                                                  <tr>
+		                                                      <td style="font-size:0px; line-height:0px; padding-top:0px; padding-bottom:0px">
+		                                                          <img width="12" height="11" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/bfda2e6b-5b45-4caf-813a-738dcdf0d155.png" alt="Job">
+		                                                      </td> 
+		                                                      <td style="padding-left:10px; padding-top:2px">
+		                                                          
+		                                                          <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+		                                                            <a href="http://www.kms-technology.com/senior-java-big-data-developer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">Senior Java Big Data Developer</a>
+		                                                          </span>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr>
+		                                      <tr><td height="12"></td></tr>
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left" class="list-hot-jobs">
+		                                                  <tr>
+		                                                      <td style="font-size:0px; line-height:0px; padding-top:0px; padding-bottom:0px">
+		                                                          <img width="12" height="11" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/bfda2e6b-5b45-4caf-813a-738dcdf0d155.png" alt="Job">
+		                                                      </td> 
+		                                                      <td style="padding-left:10px; padding-top:2px">
+		                                                          
+		                                                          <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+		                                                            <a href="http://www.kms-technology.com/senior-java-software-engineer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">Senior Java Software Engineer</a>
+		                                                          </span>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr>
+		                                      <tr><td height="12"></td></tr>
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left" class="list-hot-jobs">
+		                                                  <tr>
+		                                                      <td style="font-size:0px; line-height:0px; padding-top:0px; padding-bottom:0px">
+		                                                          <img width="12" height="11" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/bfda2e6b-5b45-4caf-813a-738dcdf0d155.png" alt="Job">
+		                                                      </td> 
+		                                                      <td style="padding-left:10px; padding-top:2px">
+		                                                          
+		                                                          <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+		                                                            <a href="http://www.kms-technology.com/qa-engineer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">QA Engineer</a> /
+		                                                            <a href="http://www.kms-technology.com/senior-qa-engineer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">Senior QA Engineer</a>
+		                                                          </span>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr>
+		                                      <tr><td height="12"></td></tr>
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left" class="list-hot-jobs">
+		                                                  <tr>
+		                                                      <td style="font-size:0px; line-height:0px; padding-top:0px; padding-bottom:0px">
+		                                                          <img width="12" height="11" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/bfda2e6b-5b45-4caf-813a-738dcdf0d155.png" alt="Job">
+		                                                      </td> 
+		                                                      <td style="padding-left:10px; padding-top:2px">
+		                                                          
+		                                                          <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+		                                                            <a href="http://www.kms-technology.com/resource-management-officer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">Resource Management Officer</a>
+		                                                          </span>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr> 
+		                                      <tr><td height="12"></td></tr>
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left" class="list-hot-jobs">
+		                                                  <tr>
+		                                                      <td style="font-size:0px; line-height:0px; padding-top:0px; padding-bottom:0px">
+		                                                          <img width="12" height="11" style="display: block;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/bfda2e6b-5b45-4caf-813a-738dcdf0d155.png" alt="Job">
+		                                                      </td> 
+		                                                      <td style="padding-left:10px; padding-top:2px">
+		                                                          
+		                                                          <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+		                                                            <a href="http://www.kms-technology.com/chief-people-officer.html" target="_blank" title="textColor" style="text-decoration: none; color: #717171; font-weight: normal; line-height: 16px;">Chief People Officer</a>
+		                                                          </span>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr> 
+		                                      <tr><td height="15"></td></tr>
+		                                      <tr>
+		                                          <td>
+		                                              <table border="0" cellpadding="0" cellspacing="0" align="left">
+		                                                  <tr>
+		                                                      <td width="15px">
+		                                                          
+		                                                      </td> 
+		                                                      <td>	
+		                                                          <a href="http://www.kms-technology.com/current-openings.html" target="_blank">
+		                                                          	<img class="image-100-percent" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/1d51d7a0-315e-487f-b7c2-b9939da23f14.png" width="116" alt="View All" style="display:block; max-width:270px; " border="0" hspace="0" vspace="0">
+		                                                          </a>
+		                                                      </td>    
+		                                                  </tr>                      
+		                                              </table>
+		                                          </td>
+		                                      </tr>                                      
+		                                    </table>
+		                                 </td>
+		                               </tr>
+		
+		                               <!--start space height --> 
+		                               <tr>
+		                                 <td height="20"></td>
+		                               </tr>
+		                               <!--end space height --> 
+		                             </table>
+		                           </td>
+		                         </tr>
+		                         <!-- end text content --> 
+		
+		                         <!--start space height --> 
+		                         <tr><td class="remove" height="10" valign="top"></td></tr>
+		                         <!--end space height --> 
+		
+		                       </table>		                       
+                       		</td>
+                       		<!-- end content left -->
+                       		
+                       		<!-- start content right --> 
+							<td align="right" valign="bottom" width="270" class="col-hotjobs-2">                       			
+		                       <a href="#">
+	                               <img class="image-100-percent" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/d6b6346b-463e-4cc2-b275-9143dee814b9.png" width="270" alt="" style="display:block; max-width:270px; " border="0" hspace="0" vspace="0"> 
+	                             </a>		                       
+                       		</td>
+                       		<!-- end content right -->
+                       	</tr>
+                       </table>
+
+                     </td>
+                   </tr>
+                   <!-- end image and content --> 
+
+                 </table>
+                 <!-- end layout-2 container width 560px --> 
+               </td>
+             </tr>
+           </table>
+           <!-- end layout-2 container width 600px -->
+         </td>
+       </tr>
+
+     </table>
+   </td>
+ </tr>
+ <!-- END LAYOUT 1 Job List  --> 
+
+ <!-- START LAYOUT TWO COLUMN --> 
+ <tr>
+   <td align="center" valign="top" class="fix-box">
+     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+      
+       <tr>
+         <td align="center" valign="top">
+
+           <!-- start layout-2 container width 600px --> 
+           <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container" bgcolor="#f8f8f8" style="background-color: #f8f8f8; ">
+             <tr>
+               <td valign="top">
+
+                 <!-- start layout-2 container width 560px --> 
+                 <table width="560" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+
+                   <!-- start image and content --> 
+                   <tr>
+                     <td valign="top" width="100%">
+
+                       <!-- start content left --> 
+                       <table width="254" border="0" cellspacing="0" cellpadding="0" align="left" class="col-2">
+
+                        <!--start space height --> 
+                         <tr>
+                           <td height="20"></td>
+                         </tr>
+                         <tr><td height="10" class="remove"></td></tr>
+                         <!--end space height --> 
+
+                         <tr>
+                           <td valign="top" align="center">
+                             <a href="http://www.kms-technology.com/blog/secrets-to-setting-expectations-for-exploratory-testing" target="_blank">
+                               <img class="image-100-percent" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/5769f244-bb89-4cab-a8bd-8aae27a46545.png" width="254" alt="" style="display:block; max-width:254px; " border="0" hspace="0" vspace="0"> 
+                             </a>
+
+                           </td>
+                         </tr>
+
+                         <!--start space height --> 
+                         <tr>
+                           <td height="20"></td>
+                         </tr>
+                         <!--end space height --> 
+
+                         <!-- start text content --> 
+                         <tr>
+                           <td valign="top">
+                             <table border="0" cellspacing="0" cellpadding="0" align="left">
+                               <tr>
+                                 <td style="font-size: 16px; line-height: 22px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#0fa6e2; font-weight:bold; text-align:left;">
+                                   <span style="color: #0fa6e2; font-weight: bold;">
+                                     <a href="http://www.kms-technology.com/blog/secrets-to-setting-expectations-for-exploratory-testing" target="_blank" style="text-decoration: none; color: #0fa6e2; font-weight: bold;">
+                                       Secrets to setting expectations for Exploratory Testing
+                                     </a>
+                                   </span>
+                                 </td>
+                               </tr>
+
+                               <!--start space height --> 
+                               <tr>
+                                 <td height="10"></td>
+                               </tr>
+                               <!--end space height --> 
+
+                               <tr>
+                                 <td style="font-size: 13px; line-height: 22px; font-family:Arial,Tahoma, Helvetica, sans-serif; color:#737373; font-weight:normal; text-align:left; ">
+
+                                     If you adopt exploratory testing the right way, then you’ll find the benefits are compelling. 
+                                     It can enable your test team to find defects earlier in production, it will boost their satisfaction levels and skillset as they’re afforded more responsibility, and it will result in a better quality product. 
+                                     Check out this blog post to learn more about secrets to setting expectations for Exploratory Testing.
+                                                                        
+                                 </td>
+                               </tr>
+
+                               <!--start space height --> 
+                               <tr>
+                                 <td height="15">
+                                 	
+                                 </td>
+                               </tr>
+                               <!--end space height --> 
+							   <tr>
+                                   <td align="center" style="text-align: center; vertical-align: middle;">                                      
+                                      <table border="0" cellspacing="0" cellpadding="0" align="left">
+                                      	<tr>
+                                        	<td align="left">
+                                            	<a href="http://www.kms-technology.com/blog/secrets-to-setting-expectations-for-exploratory-testing" target="_blank">
+                                            		<img width="116" style="display: block; max-width:116px;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/40c1d87e-86b8-4b21-82dd-400cb5a67f41.png" border="0" alt="Secrets to setting expectations for Exploratory Testing">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                      </table>
+                                   </td>
+                                 </tr> 	
+                             </table>
+                           </td>
+                         </tr>
+                         <!-- end text content --> 
+                           <!--start space height --> 
+                         <tr>
+                           <td height="10" class="col-underline"></td>
+                         </tr>
+                         <tr><td height="10" class="remove"></td></tr>
+                         <!--end space height --> 
+                       </table>
+                       <!-- end content left --> 
+
+
+                       <!-- start space width --> 
+                       <table class="remove" width="1" border="0" cellpadding="0" cellspacing="0" align="left" style="font-size: 0;line-height: 0;border-collapse: collapse;">
+                         <tr>
+                           <td width="0" height="2" style="font-size: 0;line-height: 0;border-collapse: collapse;">
+                             <p style="padding-left: 52px;">&nbsp;</p>
+                           </td>
+                         </tr>
+                       </table>
+                       <!-- end space width --> 
+
+
+                       <!-- start content right --> 
+                       <table width="254" border="0" cellspacing="0" cellpadding="0" align="right" class="col-2-last">
+                        <!--start space height --> 
+                         <tr>
+                           <td height="20"></td>
+                         </tr>
+                         <tr><td height="10" class="remove"></td></tr>
+                         <!--end space height --> 
+
+                         <tr>
+                           <td width="100%" valign="top" align="center">
+                             <a href="http://img.mailchimp.com/404-Tips for Tackling Test Data Management" target="_blank">
+                               <img class="image-100-percent" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/8086f156-ae50-4d34-a96a-00b9d510cb8e.png" width="254" alt="" style="display:block; max-width:254px; " border="0" hspace="0" vspace="0"> 
+                             </a>
+
+                           </td>
+                         </tr>
+
+                         <!--start space height --> 
+                         <tr>
+                           <td height="20"></td>
+                         </tr>
+                         <!--end space height --> 
+
+                         <!-- start text content --> 
+                         <tr>
+                           <td valign="top">
+                             <table border="0" cellspacing="0" cellpadding="0" align="left">
+                               <tr>
+                                 <td style="font-size: 16px; line-height: 22px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#0fa6e2; font-weight:bold; text-align:left;">
+                                   <span style="color: #0fa6e2; font-weight: bold;">
+                                     <a href="http://www.kms-technology.com/blog/tips-for-tackling-test-data-management" target="_blank" title="Tips for Tackling Test Data Management" style="text-decoration: none; color: #0fa6e2; font-weight: bold;">
+                                      Bill Gates's Top 10 Rules For Success
+                                     </a>
+                                   </span>
+                                 </td>
+                               </tr>
+
+                               <!--start space height --> 
+                               <tr>
+                                 <td height="10"></td>
+                               </tr>
+                               <!--end space height --> 
+
+                               <tr>
+                                 <td style="font-size: 13px; line-height: 22px; font-family:Arial,Tahoma, Helvetica, sans-serif; color:#737373; font-weight:normal; text-align:left; ">
+								   Bill Gates once gave a mind blowing speech at a high school explaining them the difference between real life and fictional life that most individuals of new generation fail to understand and are not taught in schools. 
+                                   This set of life changing rules might be one of the core reasons that make him stand out of the crowd and lead a billionaire lifestyle.
+                                   Check out Bill Gates's top 11 rules you will never learn in school.
+								  </td>
+                               </tr>
+
+                               <!--start space height --> 
+                               <tr>
+                                 <td height="15"></td>
+                               </tr>
+                               <!--end space height --> 
+                               <tr>
+                                   <td align="left" style="text-align: center; vertical-align: middle;">                                      
+                                      <table border="0" cellspacing="0" cellpadding="0" align="left">
+                                      	<tr>
+                                        	<td align="left">
+                                            	<a href="http://www.kms-technology.com/blog/tips-for-tackling-test-data-management" target="_blank">
+                                            		<img width="116" style="display: block; max-width:116px;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/40c1d87e-86b8-4b21-82dd-400cb5a67f41.png" border="0" alt="Tips for Tackling Test Data Management">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                      </table>
+                                   </td>
+                                 </tr> 	
+                             </table>
+                           </td>
+                         </tr>
+                         <!-- end text content -->
+
+                           <!--start space height -->
+                         <tr>
+                           <td height="10"></td>
+                         </tr>
+                         <tr><td height="10" class="remove"></td></tr>
+                         <!--end space height --> 
+
+                       </table>
+                       <!-- end content right --> 
+                     </td>
+                   </tr>
+                   <!-- end image and content --> 
+
+                 </table>
+                 <!-- end layout-2 container width 560px --> 
+               </td>
+             </tr>
+           </table>
+           <!-- end layout-2 container width 600px -->
+         </td>
+       </tr>
+	
+       <tr>
+         <td align="center" valign="top">
+
+           <!-- start layout-2 container width 600px --> 
+           <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container" bgcolor="#f8f8f8" style="background-color: #f8f8f8; ">
+             <tr>
+               <td valign="top">
+
+                 <!-- start layout-2 container width 560px --> 
+                 <table width="560" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+
+                   <!-- start image and content --> 
+                   <tr>
+                     <td valign="top" width="100%">
+
+                       <!-- start content left --> 
+                       <table width="254" border="0" cellspacing="0" cellpadding="0" align="left" class="col-2">
+
+                        <!--start space height --> 
+                         <tr>
+                           <td height="20"></td>
+                         </tr>
+                         <tr><td height="10" class="remove"></td></tr>
+                         <!--end space height --> 
+
+                         <tr>
+                           <td valign="top" align="left">
+                             <a href="http://certmag.com/dba-or-developer-deciding-which-one-suits-you-best/" target="_blank">
+                               <img class="image-100-percent" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/41c663bc-4f06-437c-92ca-b938c07d8fb5.png" width="254" alt="DBA or Developer? Deciding which one suits you best." style="display:block; max-width:254px; " border="0" hspace="0" vspace="0"> 
+                             </a>
+
+                           </td>
+                         </tr>
+
+                         <!--start space height --> 
+                         <tr>
+                           <td height="20"></td>
+                         </tr>
+                         <!--end space height --> 
+
+                         <!-- start text content --> 
+                         <tr>
+                           <td valign="top">
+                             <table border="0" cellspacing="0" cellpadding="0" align="left">
+                               <tr>
+                                 <td style="font-size: 16px; line-height: 22px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#0fa6e2; font-weight:bold; text-align:left;">
+                                   <span style="color: #0fa6e2; font-weight: bold;">
+                                     <a href="http://certmag.com/dba-or-developer-deciding-which-one-suits-you-best/" target="_blank" title="DBA or Developer? Deciding which one suits you best." style="text-decoration: none; color: #0fa6e2; font-weight: bold;">
+                                       DBA or Developer? Deciding which one suits you best.
+                                     </a>
+                                   </span>
+                                 </td>
+                               </tr>
+
+                               <!--start space height --> 
+                               <tr>
+                                 <td height="10"></td>
+                               </tr>
+                               <!--end space height --> 
+
+                               <tr>
+                                 <td style="font-size: 13px; line-height: 22px; font-family:Arial,Tahoma, Helvetica, sans-serif; color:#737373; font-weight:normal; text-align:left; ">
+									Many people asking whether they should pursue the Oracle certification track to become a Database Administrator or a Developer certification track. 
+									As a general rule, their question revolves around "Which makes more money?" or "Which is in greater demand?". Check out this article to decide which one suits you best.
+                                                                        
+                                 </td>
+                               </tr>
+
+                               <!--start space height --> 
+                               <tr>
+                                 <td height="15">
+                                 	
+                                 </td>
+                               </tr>
+                               <!--end space height --> 
+							   <tr>
+                                   <td align="center" style="text-align: center; vertical-align: middle;">                                      
+                                      <table border="0" cellspacing="0" cellpadding="0" align="left">
+                                      	<tr>
+                                        	<td align="left">
+                                            	<a href="http://certmag.com/dba-or-developer-deciding-which-one-suits-you-best/" target="_blank">
+                                            		<img width="116" style="display: block; max-width:116px;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/40c1d87e-86b8-4b21-82dd-400cb5a67f41.png" border="0" alt="Learn More">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                      </table>
+                                   </td>
+                                 </tr> 	
+                             </table>
+                           </td>
+                         </tr>
+                         <!-- end text content --> 
+                           <!--start space height --> 
+                         <tr>
+                           <td height="10" class="col-underline"></td>
+                         </tr>
+                         <tr><td height="10" class="remove"></td></tr>
+                         <!--end space height --> 
+                       </table>
+                       <!-- end content left --> 
+
+
+                       <!-- start space width --> 
+                       <table class="remove" width="1" border="0" cellpadding="0" cellspacing="0" align="left" style="font-size: 0;line-height: 0;border-collapse: collapse;">
+                         <tr>
+                           <td width="0" height="2" style="font-size: 0;line-height: 0;border-collapse: collapse;">
+                             <p style="padding-left: 52px;">&nbsp;</p>
+                           </td>
+                         </tr>
+                       </table>
+                       <!-- end space width --> 
+
+
+                       <!-- start content right --> 
+                       <table width="254" border="0" cellspacing="0" cellpadding="0" align="right" class="col-2-last">
+                        <!--start space height --> 
+                         <tr>
+                           <td height="20"></td>
+                         </tr>
+                         <tr><td height="10" class="remove"></td></tr>
+                         <!--end space height --> 
+
+                         <tr>
+                           <td width="100%" valign="top" align="center">
+                             <a href="http://successogram.com/bill-gates-11-rules-you-never-learn-in-school/" target="_blank">
+                               <img class="image-100-percent" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/a2044cab-4303-44b7-af4b-eaf5c90ff0b3.png" width="254" alt="" style="display:block; max-width:254px; " border="0" hspace="0" vspace="0"> 
+                             </a>
+
+                           </td>
+                         </tr>
+
+                         <!--start space height --> 
+                         <tr>
+                           <td height="20"></td>
+                         </tr>
+                         <!--end space height --> 
+
+                         <!-- start text content --> 
+                         <tr>
+                           <td valign="top">
+                             <table border="0" cellspacing="0" cellpadding="0" align="left">
+                               <tr>
+                                 <td style="font-size: 16px; line-height: 22px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#0fa6e2; font-weight:bold; text-align:left;">
+                                   <span style="color: #0fa6e2; font-weight: bold;">
+                                     <a href="http://successogram.com/bill-gates-11-rules-you-never-learn-in-school/" target="_blank" style="text-decoration: none; color: #0fa6e2; font-weight: bold;">
+                                      Tips for Tackling Test Data Management
+                                     </a>
+                                   </span>
+                                 </td>
+                               </tr>
+
+                               <!--start space height --> 
+                               <tr>
+                                 <td height="10"></td>
+                               </tr>
+                               <!--end space height --> 
+
+                               <tr>
+                                 <td style="font-size: 13px; line-height: 22px; font-family:Arial,Tahoma, Helvetica, sans-serif; color:#737373; font-weight:normal; text-align:left; ">
+
+                                   Good test data will bring your testing environment closer to the live settings that the product is used in the wild, and boost your coverage quality. 
+                                   How do you ensure that you have the correct data, at the right time, in the required quantity?
+                                   Check out this article to learn more about tips to effectively manage your test data. 
+
+                                 </td>
+                               </tr>
+
+                               <!--start space height --> 
+                               <tr>
+                                 <td height="15"></td>
+                               </tr>
+                               <!--end space height --> 
+                               <tr>
+                                   <td align="center" style="text-align: center; vertical-align: middle;">                                      
+                                      <table border="0" cellspacing="0" cellpadding="0" align="left">
+                                      	<tr>
+                                        	<td align="left">
+                                            	<a href="http://successogram.com/bill-gates-11-rules-you-never-learn-in-school/" target="_blank">
+                                            		<img width="116" style="display: block; max-width:116px;" src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/40c1d87e-86b8-4b21-82dd-400cb5a67f41.png" border="0" alt="Learn More">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                      </table>
+                                   </td>
+                                 </tr> 	
+                             </table>
+                           </td>
+                         </tr>
+                         <!-- end text content -->
+
+                           <!--start space height -->
+                         <tr>
+                           <td height="10"></td>
+                         </tr>
+                         <tr><td height="10" class="remove"></td></tr>
+                         <!--end space height --> 
+
+                       </table>
+                       <!-- end content right --> 
+                     </td>
+                   </tr>
+                   <!-- end image and content --> 
+
+                 </table>
+                 <!-- end layout-2 container width 560px --> 
+               </td>
+             </tr>
+           </table>
+           <!-- end layout-2 container width 600px -->
+         </td>
+       </tr>
+	
+	
+	
+     </table>
+   </td>
+ </tr>
+<!-- END LAYOUT TWO COLUMN  --> 
+
+<!-- START LINE-->
+<tr>
+	<td height="1"></td>
+</tr>
+<!-- END LINE-->
+
+<!-- START TECHNICAL UPDATES-->
+<tr>
+    <td align="center" valign="top" class="fix-box" title="bg_color">
+
+      <!-- start layout-7 container -->  
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+        <tr>
+          <td valign="top">
+
+            <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container" bgcolor="#ffffff" style="background-color:#ffffff;">
+
+               <!--start space height -->                      
+              <tbody><tr>
+                <td height="30"></td>
+              </tr>
+              <!--end space height --> 
+
+              <tr>
+                <td valign="top">
+                  <table width="560" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+                    <tbody><tr>
+                      <td valign="top">
+
+                        <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+                          <tbody>
+                          <tr>
+                          	<td style="font-size: 24px; line-height: 16px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#0fa6e2; font-weight:bold; text-align:left; color:#999999">
+                          		TECHNICAL UPDATES
+                          	</td>
+                          </tr>
+                          <tr><td height="20"></td></tr>
+                          <tr>
+                            <td valign="top" align="left">
+                              <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                <tr>
+                                  <td width="10"></td>                                  
+                                  <td width="100" style="padding-left:10px; padding-top:1px">
+                                      
+                                      <span style="font-size: 13px; font-weight: normal; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#a9a9a9">
+		                                    July 16, 2015	                                   </span>	
+                                  </td>
+                                  <td style="padding-left:0px; padding-top:1px">
+                                      
+                                      <span title="textColor" style="color: #00a0e0; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+                                        <a href="#" target="_blank" style="text-decoration: none; color: #21ace3;">Microsoft released Visual Studio 2015 RTM</a>
+                                      </span>
+                                  </td>    
+                              </tr>
+                              <tr><td height="10"></td><td></td><td></td></tr>
+                              <tr>
+                                  <td></td>                                  
+                                  <td valign="top" style="padding-left:10px; padding-top:0px">                                      
+                                      <span style="font-size: 13px; font-weight: normal; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#a9a9a9">
+		                                    July 20, 2015	                                   </span>
+                                  </td>
+                                  <td valign="top" style="padding-left:0px; padding-top:0px">
+                                      
+                                      <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+                                        <a href="https://nodesource.com/blog/nodesource-announces-nsupport" target="_blank" style="text-decoration: none; color: #21ace3;">NodeSource delivers Node.js Support for the Enterprise</a>
+                                      </span>
+                                  </td>    
+                              </tr>
+                              <tr><td height="10"></td><td></td><td></td></tr>
+                              <tr>
+                                  <td></td>                                  
+                                  <td style="padding-left:10px; padding-top:1px">
+                                      
+                                      <span style="font-size: 13px; font-weight: normal; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#a9a9a9">
+		                                    July 29, 2015	                                   </span>
+                                  </td>
+                                  <td style="padding-left:0px; padding-top:1px">
+                                      
+                                      <span title="textColor" style="color: #717171; font-weight: normal;font-size: 13px; font-family:Arial,Tahoma, Helvetica, sans-serif;">
+                                        <a href="http://www.microsoft.com/en-us/windows/features" target="_blank" style="text-decoration: none; color: #21ace3;">Microsoft officially released Windows 10</a>
+                                      </span>
+                                  </td>    
+                              </tr>
+						    </tbody></table>
+                            </td>
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+
+              <!--start space height -->                      
+              <tr>
+                <td height="20"></td>
+              </tr>
+              <!--end space height --> 
+
+            </tbody></table>
+
+          </td>
+        </tr>
+      </table>
+      <!-- end layout-7 container -->  
+    </td>
+  </tr>
+<!-- END TECHNICAL UPDATES-->
+
+<!-- START FOOTER-BOX-->
+  <tr>
+    <td align="center" valign="top" class="fix-box">
+
+      <!-- start layout-7 container -->  
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+        
+        <tr>
+          <td class="full-width" width="100%" align="center" valign="top">
+
+            <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width" bgcolor="#006790">
+
+               <!--start space height -->                      
+              <tr>
+                <td height="20"></td>
+              </tr>
+              <!--end space height --> 
+
+              <tr>
+                <td valign="top">
+
+                  <!-- start logo footer and address -->  
+                  <table width="560" align="center" border="0" cellspacing="0" cellpadding="0" class="container">
+                    <tr>
+                      <td valign="top">
+
+                        <!--start icon socail navigation -->  
+                        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td valign="top" align="center">
+
+                              <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0" class="full-width">
+                                <tr>
+                                  <td align="left" valign="middle" class="clear-padding">
+                                    <table width="270" border="0" align="left" cellpadding="0" cellspacing="0" class="col-2">
+                                      <tr>
+                                        <td style="font-size: 18px; line-height: 22px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#ffffff; font-weight:bold; text-align:left;">
+                                          TALK TO KMS RECRUITERS
+                                        </td>
+                                      </tr>
+                                      <tr><td height="10"></td></tr>
+                                      <tr>
+                                        <td style="font-size: 13px; line-height: 20px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#ffffff; font-weight:normal; text-align:left;">                                    
+                                          Email: <a href="mailto:career@kms-technology.com" target="_blank" style="text-decoration: none; color: #ffffff; font-weight: normal;">career@kms-technology.com</a><br>
+                                          Phone: <a href="tel:(+84) 938.118.997" target="_blank" style="text-decoration: none; color: #ffffff; font-weight: normal;">(+84) 938.118.997</a>                                          
+                                        </td>
+                                      </tr>
+                                    </table>
+  
+                                    <table width="270" border="0" align="left" cellpadding="0" cellspacing="0" class="col-2-last">
+                                      <tr>
+                                        <td align="right">
+                                          <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+                                            <tr><td height="20"></td></tr>
+                                            <tr><td height="10" class="remove"></td></tr>
+                                            <tr>
+                                              <td valign="mindle" align="center">
+                                                <table border="0" align="right" cellpadding="0" cellspacing="0" class="clear-align">
+                                                  <tr>
+                                                    <td align="center" valign="middle" class="clear-padding">
+                                                      <a href="http://twitter.com/kmstechnology" target="_blank">
+                                                        <img src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/25915f18-57c8-4046-b6c1-ae6443ce64a3.png" width="39" alt="icon-twitter" style="max-width:39px;" border="0" hspace="0" vspace="0">  
+                                                      </a>
+                                                    </td>
+                                                    <td style="padding-left:5px; " height="30" align="center" valign="middle" class="clear-padding">
+                                                      <a href="https://www.facebook.com/kmstechnology.page" target="_blank">
+                                                        <img src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/cb418214-2574-47c4-8f68-656fe4ef28d6.png" width="37" alt="icon-facebook" style="max-width:37px;" border="0" hspace="0" vspace="0">  
+                                                      </a>
+                                                    </td>
+                                                    <td style="padding-left:5px; " height="30" align="center" valign="middle" class="clear-padding">
+                                                      <a href="http://www.linkedin.com/company/kms-technology" target="_blank">
+                                                        <img src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/07de15a9-4c60-4235-bd0d-b0ebf7df82f2.png" width="38" alt="icon-facebook" style="max-width:38px;" border="0" hspace="0" vspace="0">  
+                                                      </a>
+                                                    </td>
+                                                    <td style="padding-left:5px; " height="30" align="center" valign="middle" class="clear-padding">
+                                                      <a href="http://www.youtube.com/kmstechnology" target="_blank">
+                                                        <img src="https://gallery.mailchimp.com/7322fbb8c9fca82452c7533d9/images/aafd9376-c4f1-4e87-9cf5-19cdfccd8117.png" width="38" alt="icon-youtube" style="max-width:38px;" border="0" hspace="0" vspace="0">  
+                                                      </a>
+                                                    </td>
+                                                  </tr>
+                                                </table>
+                                              </td>
+                                            </tr>
+                                          </table>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>                                  
+                                </tr>
+                                <!--start space height -->                      
+                                <tr>
+                                  <td height="20"></td>
+                                </tr>
+                                <!--end space height --> 
+                                <tr>
+                                  <td align="center" valign="middle" class="clear-padding" style="font-size: 11px; line-height: 18px; font-family:Arial,Tahoma, Helvetica, sans-serif; color:#86c0d7; font-weight:normal; text-align:center;">
+                                    No longer want updates from KMS Careers?                                    
+                                    <span style="color: #FFF; font-weight: normal;">
+                                     <a href="*|UNSUB|*" target="_blank" style="text-decoration: none; color: #FFF; font-weight: normal;">Unsubscribe.</a> 
+                                    </span>
+
+                                    <br>
+                                    Know someone who would enjoy this email?
+                                    <span style="color: #FFF; font-weight: normal;">
+                                     <a href="*|FORWARD|*" target="_blank" style="text-decoration: none; color: #FFF; font-weight: normal;">Forward</a> 
+                                    </span> to them.
+
+                                  </td>                                  
+                                </tr>
+                              </table>
+
+                            </td>
+                          </tr>
+                        </table>
+                        <!--end icon socail navigation --> 
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- end logo footer and address --> 
+
+                </td>
+              </tr>
+
+              <!--start space height -->                      
+              <tr>
+                <td height="20"></td>
+              </tr>
+              <!--end space height --> 
+
+            </table>
+
+          </td>
+        </tr>
+
+        <!-- start space height -->
+       <tr>
+          <td height="10" valign="top"></td>
+        </tr>
+      <!-- end space height -->
+
+      </table>
+      <!-- end layout-FOOTER-BOX container -->  
+    </td>
+  </tr>
+  <!-- END FOOTER-BOX-->  
+
+
+
+  <!-- START FOOTER COPY RIGHT  -->
+  <tr>
+    <td align="center" valign="top" class="fix-box">
+
+      <!-- start layout-7 container -->  
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" class="full-width">
+        
+       <!-- start space height -->
+       <tr>
+          <td height="5" valign="top"></td>
+        </tr>
+      <!-- end space height -->
+
+        <tr>
+          <td align="center" valign="top">
+            <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" class="container">
+              <tr>
+                <td valign="top">
+                  <table width="560" align="center" border="0" cellspacing="0" cellpadding="0" class="container">
+
+                    <tr>
+                      <!-- start COPY RIGHT content -->  
+                      <td valign="top" style="font-size: 11px; line-height: 22px; font-family: Arial,Tahoma, Helvetica, sans-serif; color:#919191; font-weight:normal; text-align:center; ">
+                        &copy; Copyright 2015, All rights reserved
+                      </td>
+                      <!-- end COPY RIGHT content --> 
+                    </tr>
+
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <!--  END FOOTER COPY RIGHT -->
+
+
+        <!-- start space height -->
+       <tr>
+          <td height="20" valign="top"></td>
+        </tr>
+      <!-- end space height -->
+
+      </table>
+    </td>
+  </tr>
+
+
+</table>
+<!-- end 100% wrapper (white background) -->
+</body>
+</html>
